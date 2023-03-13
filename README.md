@@ -4,4 +4,4 @@ A place for me to stash appimages and tools/scripts I use to assemble them. You'
 
 This is very much disorganized and a work in progress, you have been warned. I usually test in Arch and Debian, but no guarantees things will work.
 
-Downloads: https://github.com/Natekmbowie/appimages/releases/
+Downloads: https://github.com/Natekmbowie/appimages/tags
