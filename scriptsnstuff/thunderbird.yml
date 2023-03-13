@@ -16,8 +16,8 @@ script:
   - Categories=Network;Office;
   - Encoding=UTF-8
   - Name=Thunderbird
-  - GenericName=Web Browser
-  - Comment=Web Browser
+  - GenericName=Email
+  - Comment=Email RSS Chat
   - Exec=thunderbird %u
   - Icon=thunderbird
   - Terminal=false
